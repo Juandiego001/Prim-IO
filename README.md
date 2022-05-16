@@ -10,6 +10,8 @@ Entrada matriz cuadrada donde se dan los pesos de cada direcion
   C | { 3,  6,  0}
 ]
 
+        Salida:
+        
 [
         A|  B|  C|
   A | { 0 , 2 , 3},
