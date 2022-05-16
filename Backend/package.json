@@ -1,0 +1,25 @@
+{
+  "name": "pio",
+  "version": "1.0.0",
+  "description": "Proyecto final",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "nodemon src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juandiego001/Prim-IO.git"
+  },
+  "author": "Juanchope, Juan Cobo, Mishell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juandiego001/Prim-IO/issues"
+  },
+  "homepage": "https://github.com/Juandiego001/Prim-IO#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0"
+  }
+}
